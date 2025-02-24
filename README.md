@@ -38,7 +38,7 @@ TweetExtractor est un outil de web scraping pour X.com (anciennement Twitter) qu
    - Connectez-vous avec vos identifiants X.com
 
 2. **Configuration**
-   - Définissez le nombre de tweets à extraire (1-50)
+   - Définissez le nombre de tweets à extraire (pour l'instant limité à 50 tweets max)
    - Ajustez la vitesse d'extraction (100ms - 2000ms)
 
 3. **Extraction**
